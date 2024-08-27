@@ -1,4 +1,4 @@
-package mainAppJDK17;
+package first_secondLessons.mainAppJDK17;
 
 public class MainJDK17 {
     public static void main(String[] args) {

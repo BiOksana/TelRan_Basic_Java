@@ -1,4 +1,4 @@
-package game.hero;
+package first_secondLessons.game.hero;
 
 public class Elf {
 

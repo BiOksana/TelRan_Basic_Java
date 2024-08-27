@@ -1,4 +1,4 @@
-package mainAppJDK11;
+package first_secondLessons.mainAppJDK11;
 
 public class MainJDK11 {
 

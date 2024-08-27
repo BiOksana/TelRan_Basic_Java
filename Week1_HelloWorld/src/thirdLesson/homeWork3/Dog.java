@@ -1,4 +1,4 @@
-package homeWork3;
+package thirdLesson.homeWork3;
 
 public class Dog {
     String name;
