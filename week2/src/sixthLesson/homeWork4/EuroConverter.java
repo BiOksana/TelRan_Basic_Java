@@ -14,7 +14,7 @@ public class EuroConverter {
         return scanner.nextDouble();
     }
     public static double convertEurosToDollars() {
-        return getAmountOfEuros() * euroToUsdRate;
+        return Math.round(getAmountOfEuros() * euroToUsdRate);
     }
 
     public static void printAmountEurosInDollars() {
